@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yashika-mandle/Yashika-mandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yashika Mandle 👋
+Data Science · AI/ML · Generative AI · AWS
+<p>
+  <em>Learning to turn data into insights and build practical AI-powered solutions.</em>
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/yashika-mandle-6248582b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Yashika-mandle">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+👩‍💻 About Me
+- 🎓 Computer Science student in my final year.
+- 📊 Interested in Data Science, Machine Learning, and data-driven problem solving.
+- ☁️ Learning AWS AI/ML services, including Amazon SageMaker and Amazon Bedrock.
+- 🧪 I enjoy learning by building projects and experimenting with new tools.
+- 🌱 Currently strengthening my skills in Python, SQL, machine learning, and cloud-based AI.
+🔥 Current Focus
+- Data analysis and machine learning workflows
+- Deep learning and practical AI applications
+- Generative AI concepts and Amazon Bedrock
+- AWS machine learning workflows with SageMaker and Boto3
+🧩 Tech Stack
+🐍 Programming & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+🤖 Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+☁️ AWS & Cloud AI
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20SageMaker-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SageMaker"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/Boto3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Boto3"/>
+</p>
+
+🚀 Featured Projects
+🌱 AI-Driven Crop Disease Prediction and Management System
+A project focused on soybean crop disease prediction and management using AI/ML.
+- Focus: Crop disease prediction
+- Demo: Open project demo
+📈 Student Performance Indicator
+A machine learning project for predicting student performance.
+- Repository: View on GitHub
+Add more projects here as you publish them. For each project, include its problem statement, dataset, tools, model evaluation, screenshots, and setup instructions.
+
+🎯 Interests
+- 📊 Data Science & Data Analysis
+- 🤖 Machine Learning & AI
+- ☁️ AWS AI/ML Services
+- 🧠 Generative AI and cloud-based AI applications
+- 💻 Problem solving
+📊 GitHub Stats
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashika-mandle&show_icons=true&theme=tokyonight&hide_border=true" alt="Yashika's GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika-mandle&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
+
+📫 Connect With Me
+- LinkedIn: yashika-mandle
+- GitHub: Yashika-mandle
+<div align="center">
+  <em>Learn consistently · Build projects · Keep growing 🌱</em>
+</div>
