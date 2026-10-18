@@ -1,18 +1,12 @@
+
 <div align="center">
 
-<span style="font-size: 2em;">Yashika Mandle 👋</span>
-Data Science · AI/ML · Generative AI · AWS
-<p>
-  <em>Learning to turn data into insights and build practical AI-powered solutions.</em>
-</p>
+<h1><strong>Yashika Mandle </strong></h1>
+
+<h3>Data Science · AI/ML · Generative AI · AWS</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/yashika-mandle-6248582b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Yashika-mandle">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <em>Learning to turn data into insights and build practical AI-powered solutions.</em>
 </p>
 
 </div>
