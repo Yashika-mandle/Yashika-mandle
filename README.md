@@ -8,14 +8,6 @@
   <em>Learning to turn data into insights and build practical AI-powered solutions.</em>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/yashika-mandle-6248582b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Yashika-mandle">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 </div>
 
