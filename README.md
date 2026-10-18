@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Yashika Mandle 👋
+<span style="font-size: 2em;">Yashika Mandle 👋</span>
 Data Science · AI/ML · Generative AI · AWS
 <p>
   <em>Learning to turn data into insights and build practical AI-powered solutions.</em>
@@ -66,15 +66,6 @@ Add more projects here as you publish them. For each project, include its proble
 - ☁️ AWS AI/ML Services
 - 🧠 Generative AI and cloud-based AI applications
 - 💻 Problem solving
-📊 GitHub Stats
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashika-mandle&show_icons=true&theme=tokyonight&hide_border=true" alt="Yashika's GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika-mandle&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-</div>
-
 📫 Connect With Me
 - LinkedIn: yashika-mandle
 - GitHub: Yashika-mandle
